@@ -1,1 +1,1 @@
-# demo1
+Dalam tutorial ini, pemula JavaScript dapat membuat daftar yang indah dan fungsional untuk dilakukan menggunakan JavaScript. Saya akan berbicara tentang logika di balik setiap baris kode, sebelum membuka editor teks saya dan mulai mengetik kode. ini adalah tutorial langkah demi langkah, Anda tidak akan tersesat pada tahap tutorial ini.
